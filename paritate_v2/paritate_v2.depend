@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1436621762 source:c:\users\timofte\documents\info\paritate_v2\main.cpp
+	<iostream>
+	<fstream>
+	<math.h>
+
